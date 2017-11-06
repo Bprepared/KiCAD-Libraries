@@ -1,1 +1,32 @@
-
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3.5mm_3_conductors_audio_jack
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP DB23_MALE
+D 25-pin male D-SUB connector
+K male D-SUB connector
+$ENDCMP
+#
+$CMP MAX3311
+D 460kbps, 1uA RS232-Compatible Line Transceiver
+$ENDCMP
+#
+$CMP Mini-DIN_6pins
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP SP3T_switch
+D inverseur
+K switch
+$ENDCMP
+#
+$CMP SP3T_switch_BGNDing
+D inverseur
+K switch
+$ENDCMP
+#
+#End Doc Library
