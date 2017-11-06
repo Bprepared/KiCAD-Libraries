@@ -18,3 +18,5 @@ Footprints in Footprints.pretty:
 - MCA-182_EDGE_SKT - Socketed Edge Connector
 - Slide_Switch_SPDT_ThroughHole
 - FBWing - FireBird Logo
+
+Also included are various other D-Sub Connector footprints
