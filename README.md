@@ -1,4 +1,4 @@
-, Configurat# KiCAD-Libraries
+# KiCAD-Libraries
 Custom Components and Footprints for all my projects
 
 Components Symbols in Bprepared-custom:
